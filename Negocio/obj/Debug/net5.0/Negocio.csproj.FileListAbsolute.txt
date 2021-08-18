@@ -1,0 +1,17 @@
+D:\Stage-pro-back\Negocio\bin\Debug\net5.0\Negocio.deps.json
+D:\Stage-pro-back\Negocio\bin\Debug\net5.0\Negocio.dll
+D:\Stage-pro-back\Negocio\bin\Debug\net5.0\ref\Negocio.dll
+D:\Stage-pro-back\Negocio\bin\Debug\net5.0\Negocio.pdb
+D:\Stage-pro-back\Negocio\bin\Debug\net5.0\Datos.dll
+D:\Stage-pro-back\Negocio\bin\Debug\net5.0\Entidades.dll
+D:\Stage-pro-back\Negocio\bin\Debug\net5.0\Datos.pdb
+D:\Stage-pro-back\Negocio\bin\Debug\net5.0\Entidades.pdb
+D:\Stage-pro-back\Negocio\obj\Debug\net5.0\Negocio.csproj.AssemblyReference.cache
+D:\Stage-pro-back\Negocio\obj\Debug\net5.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stage-pro-back\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfoInputs.cache
+D:\Stage-pro-back\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfo.cs
+D:\Stage-pro-back\Negocio\obj\Debug\net5.0\Negocio.csproj.CoreCompileInputs.cache
+D:\Stage-pro-back\Negocio\obj\Debug\net5.0\Negocio.csproj.CopyComplete
+D:\Stage-pro-back\Negocio\obj\Debug\net5.0\Negocio.dll
+D:\Stage-pro-back\Negocio\obj\Debug\net5.0\ref\Negocio.dll
+D:\Stage-pro-back\Negocio\obj\Debug\net5.0\Negocio.pdb

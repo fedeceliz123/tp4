@@ -1,0 +1,15 @@
+D:\Stage-pro-back\Datos\bin\Debug\net5.0\Datos.deps.json
+D:\Stage-pro-back\Datos\bin\Debug\net5.0\Datos.dll
+D:\Stage-pro-back\Datos\bin\Debug\net5.0\ref\Datos.dll
+D:\Stage-pro-back\Datos\bin\Debug\net5.0\Datos.pdb
+D:\Stage-pro-back\Datos\bin\Debug\net5.0\Entidades.dll
+D:\Stage-pro-back\Datos\bin\Debug\net5.0\Entidades.pdb
+D:\Stage-pro-back\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+D:\Stage-pro-back\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stage-pro-back\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+D:\Stage-pro-back\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+D:\Stage-pro-back\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+D:\Stage-pro-back\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+D:\Stage-pro-back\Datos\obj\Debug\net5.0\Datos.dll
+D:\Stage-pro-back\Datos\obj\Debug\net5.0\ref\Datos.dll
+D:\Stage-pro-back\Datos\obj\Debug\net5.0\Datos.pdb

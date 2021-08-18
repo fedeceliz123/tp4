@@ -1,0 +1,19 @@
+﻿.menu{
+    background-color:black;
+    height:50px;
+    width:100%;
+    align-items:center;
+}
+.icono {
+    height: 150px;
+    width: 150px;
+    color: white;
+   padding-left:30px;
+    padding-top:10px
+}
+
+
+.icono :hover{
+    cursor:alias;
+}
+
