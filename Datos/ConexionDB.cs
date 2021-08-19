@@ -12,9 +12,8 @@ namespace Datos
     {
 
         private SqlConnection Conexion = new SqlConnection();
-        private string cadena = "Data Source=FEDE\\SQLEXPRESS;Initial Catalog=Libreria_Anglik; Integrated Security=True";
+        private string cadena = "Data Source=FEDE\\SQLEXPRESS;Initial Catalog=stage pro; Integrated Security=True";
 
-        //  base de datos en la nube:   Server=tcp:celiz.database.windows.net,1433;Initial Catalog = Anglik; Persist Security Info=False;User ID = adm; Password=Fede1234; MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout = 30;
 
         public SqlConnection Conetar()
         {

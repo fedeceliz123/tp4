@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Front-Stage-Pro", "Front-St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StagePro", "StagePro\StagePro.csproj", "{B93DF930-7BF7-4FAF-856D-2881C98F04A0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{031FC62E-263C-48C7-99D4-0632C198E199}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aplicacion", "aplicacion\aplicacion.csproj", "{6900C895-CFD3-43CF-A51E-896C86377D4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,9 +49,16 @@ Global
 		{B93DF930-7BF7-4FAF-856D-2881C98F04A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B93DF930-7BF7-4FAF-856D-2881C98F04A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B93DF930-7BF7-4FAF-856D-2881C98F04A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6900C895-CFD3-43CF-A51E-896C86377D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6900C895-CFD3-43CF-A51E-896C86377D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6900C895-CFD3-43CF-A51E-896C86377D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6900C895-CFD3-43CF-A51E-896C86377D4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6900C895-CFD3-43CF-A51E-896C86377D4A} = {031FC62E-263C-48C7-99D4-0632C198E199}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {44904BB9-66EB-44E4-8FF8-6DFA92959557}

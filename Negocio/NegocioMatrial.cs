@@ -13,11 +13,7 @@ namespace Negocio
         Datos.Consultas_Material.MostrarMaterial MM = new Datos.Consultas_Material.MostrarMaterial();
 
 
-        public List<Material> Lista()
-        {
-            return MM.Listar();
-        }
-
+        
             
     }
 }
